@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="catalogstyle.css">
+    
+</head>
+<body>
+    <header>
+        <div class="topnav">
+            <a href="index.html">Главная страница</a>
+            <a href="new.html">Новинки</a>
+            <a href="pop.html">Популярное</a>
+            <a class="active" href="catalog.html">каталог</a>
+            <a href="#gridB">Ваша Корзина</a>
+            <a href="aboutUs.html">О нас</a>
+            <!-- <div class="search1">
+                <input id="src1" type="text" class="textSearch1">
+                <img class="imgSearch1" src="photo/search.png">
+            </div> -->
+          </div>
+    </header>
+    
+    <div class="grid" id="grid">
+        
+    </div>
+    <h1>Ваша корзина</h1>
+    <p class="inl1">Цена заказа - </p><p  id="priceZak"></p>
+    <div class="popup" onclick="myFunction()">Сделать заказ
+        <span class="popuptext" id="myPopup">Заказ сделан! Подождите 30-40 минут пока прибудет курьер.</span>
+      </div>
+
+    <div class="grid" id="gridB">
+        
+    </div>
+    <script src="move.js"></script>
+</body>
+</html>

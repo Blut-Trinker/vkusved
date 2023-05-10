@@ -1,0 +1,84 @@
+{
+    "stuff":[
+       {
+        "name":"Суши 'Филадельфия'",
+        "price":"30",
+        "photoLink":"photo/Fila.webp"
+       },
+       {
+        "name":"Тали",
+        "price":"20",
+        "photoLink":"photo/Tali.jpg"
+       },
+       {
+        "name":"Фо",
+        "price":"10",
+        "photoLink":"photo/sup.jpg"
+       },
+       {
+        "name":"Роти",
+        "price":"8",
+        "photoLink":"photo/pancake.jpg"
+       },
+       {
+        "name":"Каре ягненка",
+        "price":"17",
+        "photoLink":"photo/Kare.jpg"
+       },
+       {
+        "name":"Вино 'Chateau Latour'",
+        "price":"300",
+        "photoLink":"photo/Vino.jpg"
+       },
+       {
+        "name":"Пицца 'Маргарита'",
+        "price":"20",
+        "photoLink":"photo/maza.jpg"
+       },
+       {
+        "name":"Торт Наполеон",
+        "price":"20",
+        "photoLink":"photo/Nap.jpg"
+       },
+       {
+        "name":"Вареная картошка",
+        "price":"5",
+        "photoLink":"photo/kart.jpg"
+       },
+       {
+        "name":"Салат Цезарь",
+        "price":"8",
+        "photoLink":"photo/Zesar.jpg"
+       }, 
+       {
+        "name":"Чёрный кофе",
+        "price":"5",
+        "photoLink":"photo/BlackKf.jpg"
+       },
+       {
+        "name":"Чёрный чай",
+        "price":"5",
+        "photoLink":"photo/GreenT.jpg"
+       },
+       {
+        "name":"Лапша Ло Мейн",
+        "price":"13",
+        "photoLink":"photo/lo.jpg"
+       },
+       {
+        "name":"Салат Греческий",
+        "price":"11",
+        "photoLink":"photo/Greek_salad.webp"
+       },
+       {
+        "name":"Куринные ножки",
+        "price":"17",
+        "photoLink":"photo/FarshN.jpg"
+       },
+       {
+        "name":"Борщ с мясом",
+        "price":"8",
+        "photoLink":"photo/Borsh.jpg"
+       }
+    ]
+}
